@@ -1,0 +1,16 @@
+{
+  "name": "com.turninator95.memories",
+  "version": "1.0.0",
+  "displayName": "Memories",
+  "description": "Memories is based on the Moments Recorder of Thomas Hourdel. Moments is a quick GIF replay recorder for Unity3D. It automatically records the last few seconds of gameplay and lets you save to a GIF file on demand, like the game TowerFall Ascension does.",
+  "unity": "2018.1",
+  "keywords": [
+    "gif",
+    "game capture",
+    "camera addon"
+  ],
+  "author": {
+    "name": "Daniel Turner",
+    "url": "https://turninator95.com"
+  }
+}

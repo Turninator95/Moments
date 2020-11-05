@@ -1,0 +1,9 @@
+{
+    "name": "DanielTurner.Memories.Editor",
+    "references": [
+        "DanielTurner.Memories"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
